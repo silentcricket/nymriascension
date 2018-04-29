@@ -1,7 +1,7 @@
 #only keep hak, tlk, and modules folders
-!/hak
-!/tlk
-!/modules
+!hak
+!tlk
+!modules
 /servervault
 /override
 /portraits
