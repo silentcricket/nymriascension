@@ -1,8 +1,18 @@
 #only keep hak, tlk, and modules folders
-!/hak
-!/tlk
-!/modules
 /servervault
 /override
 /portraits
 /saves
+/ambient
+/database
+/dmvault
+/localvault
+/logs
+/movies
+/music
+/tempclient
+/cdkey.ini
+/nwn.ini
+/nwnpid
+/nwnplayer.ini
+/nwtoolset.ini
