@@ -7,6 +7,6 @@ cp -rf /nymriascension/*.sh /nwn_server/.
 
 
 echo "Copying over modules"
-cp -rf /nymriascension/*.mod /nwn_server/.
+cp -rf /nymriascension/*.mod /nwn_server/modules/.
 
  
